@@ -50,9 +50,6 @@
 
 ## 👨‍🎓 Команда разработчиков
 
-<details>
-<summary><b>👥 Раскрыть список команды</b></summary>
-<br>
 
 <div align="center">
 
@@ -67,8 +64,6 @@
 | **Маслюк Макар** | Аналитик | [@bokketo17](https://github.com/bokketo17) | [📧](mailto:) |
 
 </div>
-
-</details>
 
 ---
 
