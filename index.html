@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Учебный портал - пример страницы</title>
+    
+    <!-- Подключаем ОБЩИЕ стили -->
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <!-- Подключаем УНИКАЛЬНЫЕ стили для этой страницы -->
+    <link rel="stylesheet" href="/css/admin.css">
+</head>
+<body>
+    <!-- Шапка (вставляется через JS) -->
+    <header id="main-header"></header>
+    
+    
+    
+    <!-- Уникальный контент страницы -->
+    <main class="dashboard">
+        <h1>Добрый день, <span id="user-name"></span>!</h1>
+        <div class="stats">
+            <!-- Статистика -->
+        </div>
+    </main>
+    
+    <!-- Подвал (вставляется через JS) -->
+    <footer id="main-footer"></footer>
+    
+    <!-- Подключаем ОБЩИЕ скрипты -->
+    <script src="js/data.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/navigation.js"></script>
+    
+    <!-- Подключаем УНИКАЛЬНЫЙ скрипт для этой страницы -->
+    <script src="/js/admin.js"></script>
+</body>
+</html>
