@@ -5,7 +5,7 @@
 ![YoptaDnevnik Banner](https://via.placeholder.com/800x200/2d2b55/ffffff?text=YoptaDnevnik+📚+Electronic+Diary)
 
 **Современная веб-платформа для управления учебным процессом**  
-*Разработано студентами под руководством Имиля "fen4yara"*
+*Разработано студентами КТНХП Группа 577*
 
 [![Статус проекта](https://img.shields.io/badge/статус-в_разработке-yellow?style=for-the-badge&logo=git)](https://github.com/fen4yara/YoptaDnevnik)
 [![Лицензия](https://img.shields.io/badge/лицензия-MIT-green?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
