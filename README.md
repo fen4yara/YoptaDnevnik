@@ -56,12 +56,12 @@
 | Участник | Роль | GitHub | Контакты |
 |----------|------|--------|----------|
 | **Шакирзянов Данил** | Frontend разработчик | [@KAYFTIPOYMALOV](https://github.com/KAYFTIPOYMALOV) | [📧](mailto:) |
-| **Нигматуллин Эмир** | Backend разработчик | [@Bast1on74](https://github.com/Bast1on74) | [📧](mailto:) |
-| **Бакирова Камила** | UI/UX дизайнер | [@vitereli](https://github.com/vitereli) | [📧](mailto:) |
-| **Ибрагимов Дамир** | Fullstack разработчик | [@wxcel](https://github.com/wxcel) | [📧](mailto:) |
-| **Капитонов Аркадий** | Тестировщик | [@VIP_Kazahka](https://github.com/) | [📧](mailto:) |
-| **Кудяков Константин** | Системный архитектор | [@koty](https://github.com/koty) | [📧](mailto:) |
-| **Маслюк Макар** | Аналитик | [@bokketo17](https://github.com/bokketo17) | [📧](mailto:) |
+| **Нигматуллин Эмир** | Frontend разработчик | [@Bast1on74](https://github.com/Bast1on74) | [📧](mailto:) |
+| **Бакирова Камила** | Frontend разработчик | [@vitereli](https://github.com/vitereli) | [📧](mailto:) |
+| **Ибрагимов Дамир** | Frontend разработчик | [@wxcel](https://github.com/wxcel) | [📧](mailto:) |
+| **Капитонов Аркадий** | Frontend разработчик | [@VIP_Kazahka](https://github.com/) | [📧](mailto:) |
+| **Кудяков Константин** | Frontend разработчик | [@koty](https://github.com/koty) | [📧](mailto:) |
+| **Маслюк Макар** | Frontend разработчик | [@bokketo17](https://github.com/bokketo17) | [📧](mailto:) |
 
 </div>
 
